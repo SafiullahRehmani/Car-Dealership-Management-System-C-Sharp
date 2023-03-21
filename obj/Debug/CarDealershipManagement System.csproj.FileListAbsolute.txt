@@ -1,0 +1,48 @@
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.exe.config
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car Sales Management System.exe
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car Sales Management System.pdb
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.exe
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.pdb
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\CarDealershipManagement System.csprojResolveAssemblyReference.cache
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.AddDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Carpage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.ChangePassword.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.ChangePasswordDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.DeleteDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Employeepage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Invoicepage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.LoginPage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Customerpage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Properties.Resources.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SaveDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SearchDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Servicespage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SignupDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.UpdateDone.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.UserInvalid.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.WelcomeMessage.resources
+C:\Users\razah\Downloads\Compressed\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\CarDealershipManagement System.csproj.GenerateResource.Cache
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.exe.config
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car Sales Management System.exe
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car Sales Management System.pdb
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.exe
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\bin\Debug\Car Sales Management System.pdb
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\CarDealershipManagement System.csprojResolveAssemblyReference.cache
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.AddDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Carpage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.ChangePassword.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.ChangePasswordDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.DeleteDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Employeepage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Invoicepage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.LoginPage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Customerpage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Properties.Resources.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SaveDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SearchDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.Servicespage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.SignupDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.UpdateDone.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.UserInvalid.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\Car_Sales_Management_System.WelcomeMessage.resources
+E:\2nd Semester\OOP Theory\Car Dealership By Safiullah & Hur Raza\Car-Dealership-Management-System\CarDealershipManagementSystem\obj\Debug\CarDealershipManagement System.csproj.GenerateResource.Cache
